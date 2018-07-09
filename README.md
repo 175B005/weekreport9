@@ -6,6 +6,22 @@
 
 
 
+紹介しているサイト　https://facevtuber.com/docs/article/pmca_entry/
+
+めっちゃ手順毎に説明されていて、私の補足はいらないので、省きますｗ。
+
+ダウンロード　https://bowlroll.net/file/3714
+
+面白いＭＭＤがいっぱいありますね。
+
+[キズナアイ](https://kizunaai.com/download-page/)のデータを使いました。
+
+いやー。動画で上がっているやつはめっちゃカメラの補完がいいんだろーなー。  
+ＰＣについてるくそカメラだと、カクついてるから、いいの持ってる人は
+こうならないと思います。
+
+
+
 
 
 [前](https://github.com/175B005/weekreport8) | [次](https://github.com/175B005/weekreport10)
