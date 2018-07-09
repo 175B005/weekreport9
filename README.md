@@ -10,13 +10,13 @@
 
 紹介しているサイト　https://facevtuber.com/docs/article/pmca_entry/
 
-[![](https://raw.githubusercontent.com/175B005/weekreport9/master/2018-07-09(2).png)](https://kizunaai.com/download-page/)
+[![](https://raw.githubusercontent.com/175B005/weekreport9/master/2018-07-09%20(2).png)](https://facevtuber.com/docs/article/pmca_entry/)
 
 めっちゃ手順毎に説明されていて、私の補足はいらないので、省きますｗ。
 
 ダウンロード　https://bowlroll.net/file/3714
 
-[![](https://raw.githubusercontent.com/175B005/weekreport9/master/2018-07-09(1).png)](https://kizunaai.com/download-page/)
+[![](https://raw.githubusercontent.com/175B005/weekreport9/master/2018-07-09%20(1).png)](https://bowlroll.net/file/3714)
 
 *面白いＭＭＤがいっぱいありますね。*
 
