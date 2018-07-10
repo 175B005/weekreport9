@@ -6,7 +6,7 @@
 
 # [FaceVTuber](https://facevtuber.com/)
 
-[![]()](https://www.youtube.com/watch?v=zNbFDEYBPGA)
+[![](https://raw.githubusercontent.com/175B005/weekreport9/master/2018-07-11.png)](https://www.youtube.com/watch?v=zNbFDEYBPGA)
 
 紹介してくれているサイト　https://facevtuber.com/docs/article/pmca_entry/
 
