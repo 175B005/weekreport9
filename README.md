@@ -6,9 +6,9 @@
 
 # [FaceVTuber](https://facevtuber.com/)
 
+[![]()](https://www.youtube.com/watch?v=zNbFDEYBPGA)
 
-
-紹介しているサイト　https://facevtuber.com/docs/article/pmca_entry/
+紹介してくれているサイト　https://facevtuber.com/docs/article/pmca_entry/
 
 [![](https://raw.githubusercontent.com/175B005/weekreport9/master/2018-07-09%20(2).png)](https://facevtuber.com/docs/article/pmca_entry/)
 
@@ -20,7 +20,7 @@
 
 *面白いＭＭＤがいっぱいありますね。*
 
-[キズナアイ](https://kizunaai.com/download-page/) のデータを使いました。  
+[キズナアイ](https://kizunaai.com/download-page/) のデータを使いました。  🄫kizuna AI
 
 [![](https://raw.githubusercontent.com/175B005/weekreport9/master/2018-07-09.png)](https://kizunaai.com/download-page/)
 
